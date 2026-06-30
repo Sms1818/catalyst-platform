@@ -1,8 +1,6 @@
-from fastapi import FastAPI
+from app.app import create_app
+from app.core.logging import configure_logging
 
-app = FastAPI()
+configure_logging()
 
-
-@app.get("/")
-async def root() -> dict[str, str]:
-    return {"message": "Welcome to Catalyst!"}
+app = create_app()
