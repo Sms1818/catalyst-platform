@@ -36,6 +36,7 @@ quote-style = "double"
 indent-style = "space"
 
 [tool.mypy]
+plugins = ["pydantic.mypy"]
 python_version = "3.13"
 strict = false
 warn_return_any = true
