@@ -17,3 +17,6 @@ docker-build:
 
 docker-run:
 	docker run -p 8000:8000 catalyst
+
+test:
+	uv run python -m pytest
