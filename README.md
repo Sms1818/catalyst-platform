@@ -52,12 +52,15 @@ Catalyst transforms interview recordings and transcripts into structured insight
 * CORS middleware
 * Global exception handling
 * Application lifespan management
-* PostgreSQL integration with SQLAlchemy 2.0
+* PostgreSQL integration with SQLAlchemy 2.0 (Async)
 * Database engine and session management
 * Dependency injection for database sessions
-* Alembic migration setup
-* Initial database migration created
-* First `User` model and schema successfully migrated
+* Alembic migration infrastructure
+* Async Alembic configuration
+* Reusable declarative `Base` model
+* Reusable `TimestampMixin`
+* First production domain model (`Interview`)
+* First production database migration
 
 ### Tech Stack
 
