@@ -1,1 +1,3 @@
-from app.models.user import User as User
+from app.models.interview import Interview
+
+__all__ = ["Interview"]

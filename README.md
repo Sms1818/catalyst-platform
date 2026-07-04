@@ -1,6 +1,6 @@
 # 🚀 Catalyst
 
-An AI-powered Internal Developer Platform (IDP) that analyzes software engineering interviews, generates actionable feedback, and provides data-driven insights to help engineering teams improve their hiring process.
+Catalyst is an AI-powered interview intelligence platform that transforms technical interview recordings and transcripts into structured insights, automated summaries, analytics, and searchable knowledge to help engineering organizations improve hiring quality.
 
 ---
 
@@ -20,14 +20,14 @@ Catalyst transforms interview recordings and transcripts into structured insight
 
 ## Key Features
 
-- 🎙️ AI-powered interview analysis
-- 📝 Automatic interview summaries
-- 📊 Candidate scoring & analytics
-- 📈 Interviewer performance metrics
-- 🔍 Semantic search across interviews
-- 🏢 Internal Developer Platform dashboard
-- 🔐 Secure authentication & RBAC
-- ☸️ Kubernetes-ready microservice architecture
+- 🤖 AI-powered interview analysis
+- 🎙️ Transcript processing
+- 📝 Automated interview summaries
+- 📊 Candidate evaluation analytics
+- 📈 Interviewer quality & bias metrics
+- 🔍 Semantic search
+- ☸️ Cloud-native microservice architecture
+- 🔐 Authentication & RBAC
 
 ---
 

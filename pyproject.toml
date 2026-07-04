@@ -8,6 +8,7 @@ dependencies = [
     "alembic>=1.18.5",
     "asyncpg>=0.31.0",
     "fastapi>=0.138.2",
+    "greenlet>=3.5.3",
     "loguru>=0.7.3",
     "psycopg[binary]>=3.3.4",
     "pydantic-settings>=2.14.2",
